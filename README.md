@@ -35,7 +35,7 @@ Welcome to my GitHub! I'm **Naveen**, a developer all about AI, web development,
 - 🎵 **AI Music Maker** - A React web app that generates music, beats, and lyrics with AI.
 - 🖼️ **Memecoin** - A meme submission and voting platform with leaderboards.
 - 🎮 **OrbAI** - An AI-powered omniscient Twitch streamer that interacts with chat.
-- 🤖 **Agentic AI** - A web app for dynamic conversations between AI agents.
+- 🤖 **Agentic AI** - A web app for dynamic agentic interactions between AI agents.
 
 ## 📫 Contact Me
 
