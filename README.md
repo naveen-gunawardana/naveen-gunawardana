@@ -26,9 +26,9 @@ Welcome to my GitHub! I'm **Naveen**, a developer passionate about AI, web devel
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ## 📈 GitHub Stats & Contributions
-![Naveen's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NaveenG&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NaveenG&layout=compact&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NaveenG&theme=radical)
+![Naveen's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Naveen-Gunawardana&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Naveen-Gunawardana&layout=compact&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Naveen-Gunawardana&theme=radical)
 
 ## 🚧 Current Projects
 
