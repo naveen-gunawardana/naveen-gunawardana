@@ -1,6 +1,6 @@
 # 🚀 Naveen's GitHub
 
-Welcome to my GitHub! I'm **Naveen**, a developer passionate about AI, web development, and innovative tech solutions. I work on projects that range from AI-powered Twitch streamers to community-driven meme platforms and music generators. 
+Welcome to my GitHub! I'm **Naveen**, a developer all about AI, web development, and innovative tech solutions. I work on projects that range from AI-powered Twitch streamers to community-driven meme platforms and music generators. 
 
 ## 🛠️ Tech Stack
 
@@ -40,8 +40,6 @@ Welcome to my GitHub! I'm **Naveen**, a developer passionate about AI, web devel
 ## 📫 Contact Me
 
 - 🌐 **Website**: [Coming soon!]
-- 📧 **Email**: naveen@biobattlers.com
-- 🐦 **Twitter/X**: [@NaveenG](https://twitter.com/NaveenG)
 - 💼 **LinkedIn**: [linkedin.com/in/naveen-gunawardana](https://linkedin.com/in/naveen-gunawardana)
 
 ---
