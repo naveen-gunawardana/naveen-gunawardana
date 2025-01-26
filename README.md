@@ -40,7 +40,7 @@ Welcome to my GitHub! I'm **Naveen**, a developer all about AI, web development,
 ## 📫 Contact Me
 
 - 🌐 **Website**: [Coming soon!]
-- 💼 **LinkedIn**: [linkedin.com/in/naveen-gunawardana](https://linkedin.com/in/naveen-gunawardana)
+- 💼 **LinkedIn**: [linkedin.com/in/naveen-gunawardana]([https://linkedin.com/in/naveen-gunawardana](https://www.linkedin.com/in/naveen-gunawardana-b6503231b/)
 
 ---
 
