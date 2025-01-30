@@ -1,4 +1,4 @@
-# 🚀 Naveen's GitHub
+# 🚀 Naveen's GitHub - naveengunawardana.com
 
 Welcome to my GitHub! I'm **Naveen**, a developer all about AI, web development, and innovative tech solutions. I work on projects that range from AI-powered Twitch streamers to community-driven meme platforms and music generators. 
 
