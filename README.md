@@ -27,8 +27,7 @@ Welcome to my GitHub! I'm **Naveen**, a developer all about AI, web development,
 
 ## 🚧 Current Projects
 
-- 🎵 **AI Music Maker** - A React web app that generates music, beats, and lyrics with AI.
-- 🖼️ **Memecoin** - A meme submission and voting platform with leaderboards.
+- 🎵 **Tweet Spark** - A React web app that connects to Firebase database and Python backend. Tweet Spark fully automates your X account.
 - 🎮 **OrbAI** - An AI-powered omniscient Twitch streamer that interacts with chat.
 - 🤖 **Agentic AI** - A web app for dynamic agentic interactions between AI agents.
 
