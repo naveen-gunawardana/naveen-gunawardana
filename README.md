@@ -25,11 +25,6 @@ Welcome to my GitHub! I'm **Naveen**, a developer all about AI, web development,
 ![CodeSpaces](https://img.shields.io/badge/CodeSpaces-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-## 📈 GitHub Stats & Contributions
-![Naveen's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Naveen-Gunawardana&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Naveen-Gunawardana&layout=compact&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Naveen-Gunawardana&theme=radical)
-
 ## 🚧 Current Projects
 
 - 🎵 **AI Music Maker** - A React web app that generates music, beats, and lyrics with AI.
