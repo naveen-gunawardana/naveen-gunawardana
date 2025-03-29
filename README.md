@@ -25,17 +25,3 @@ Welcome to my GitHub! I'm **Naveen**, a developer all about AI, web development,
 ![CodeSpaces](https://img.shields.io/badge/CodeSpaces-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-## 🚧 Current Projects
-
-- 🎵 **Tweet Spark** - A React web app that connects to Firebase database and Python backend. Tweet Spark fully automates your X account.
-- 🎮 **OrbAI** - An AI-powered omniscient Twitch streamer that interacts with chat.
-- 🤖 **Agentic AI** - A web app for dynamic agentic interactions between AI agents.
-
-## 📫 Contact Me
-
-- 🌐 **Website**: naveengunawardana.com
-- 💼 **LinkedIn**: https://www.linkedin.com/in/naveen-gunawardana-b6503231b/
-
----
-
-⭐ **Feel free to explore my repos and drop a star if you like my work!** 🚀
